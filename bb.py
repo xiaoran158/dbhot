@@ -1,3 +1,3 @@
 print("bbb")
-print("mastermaster ")
+print("master")
 
