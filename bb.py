@@ -1,8 +1,2 @@
 print("bbb")
-<<<<<<< HEAD
-print("master 2")
-
-
-=======
-print("dev two")
->>>>>>> dev
+print("master 3")
