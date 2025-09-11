@@ -1,2 +1,2 @@
 print("bbb")
-print("dev dev ")
+print("dev one")
